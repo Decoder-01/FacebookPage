@@ -1,0 +1,18 @@
+  <Doctype html>
+<html>
+<head>
+<title>Forms and their types</title>
+
+
+
+
+</head>
+<body>
+<form>
+ 
+
+
+</form>
+
+</body>
+</html>

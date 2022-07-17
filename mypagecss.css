@@ -1,0 +1,45 @@
+head{
+width:100%
+}
+h1{
+font-family:serif,monospace;
+font-size:70px;
+color:black;
+text-align:left;
+margin:2px;
+}
+.btn-group button{
+ padding:10px 24px;
+ border:1px solid green;
+ color:white;
+ cursor:pointer;
+ background-color: #04AA6D;
+ float:left;
+}
+
+.btn-group button:hover{
+ background-color:#836347;
+}
+
+.btn-group:after {
+ content: "";
+ clear: both;
+ display: table;
+}
+.btn-group button:not(:last-child){
+border-right:none; 
+}
+.tab{
+overflow:hidden;
+border:1px solid green;
+background-color:yellow;
+}
+.btn-grp button.active{
+background-color: blue;
+}
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #blue;
+  border-top: none;
+}
