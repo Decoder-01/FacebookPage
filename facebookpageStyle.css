@@ -1,0 +1,12 @@
+iframe{
+    width:300px;
+    height:300px;
+    align:center;
+justify-content:center;
+}
+.parent{
+    display:flex;
+    width:200px;
+    height:150px;
+
+}
